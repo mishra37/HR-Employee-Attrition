@@ -8,4 +8,4 @@ The application consists of 3 tab items:
 2. Decision Tree and Ceterus Paribus plot
 3. Interaction plots (Density plot and Bar plot)
 
-Click <a href = "https://neilbhutada.shinyapps.io/AttritionAnalysis/">here</a href> to look at the application.
+Click <a href = "https://neilbhutada.shinyapps.io/AttritionAnalysis/">here</a> to look at the application.
